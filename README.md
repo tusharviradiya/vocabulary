@@ -1,2 +1,4 @@
 # vocabulary
-try to improve vocabulary
+
+- annotate - tika
+- 
