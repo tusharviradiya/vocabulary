@@ -7,3 +7,5 @@
 - exploiting : shoshan
 - hid : chupavel
 - omit : chhodi devu
+- cautious : savadhan
+- consumption : vaparash
