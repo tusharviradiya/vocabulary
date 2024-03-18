@@ -9,3 +9,4 @@
 - omit : chhodi devu
 - cautious : savadhan
 - consumption : vaparash
+- emphasize - bhar mukavo
