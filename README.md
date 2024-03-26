@@ -19,3 +19,5 @@
 - consumption : vaparash
 
 - emphasize - bhar mukavo
+
+- 
