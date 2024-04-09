@@ -20,4 +20,6 @@
 
 - emphasize - bhar mukavo
 
+- yields - upaj
+
 - 
