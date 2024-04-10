@@ -23,3 +23,5 @@
 - yields - upaj
 
 - intimacy - vyavhar
+
+- concerns - chinta
