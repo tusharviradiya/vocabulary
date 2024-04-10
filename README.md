@@ -22,4 +22,4 @@
 
 - yields - upaj
 
-- 
+- intimacy - vyavhar
